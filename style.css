@@ -1,0 +1,47 @@
+*,
+html{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+
+}
+
+.header{
+    height: 90px;
+    background-color: rgb(68, 171, 83) ;
+
+}
+
+.header-logo{
+    float: left;
+    padding: 20px 20px;
+    font-size: 36px;
+}
+
+.header-list li{
+    float: right;
+    padding: 20px 20px;
+}
+
+.main{
+    height: 700px;
+    background-color: rgb(142, 245, 117);
+}
+
+.footer{
+    height: 150px;
+    background-color: rgb(38, 61, 29);
+}
+
+.footer-list li{
+    padding: 5px 20px;
+}
