@@ -9,11 +9,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    /* background-image: url("IMG-2512 (1).jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%; */
-    /* font-family: 'Abril Fatface', cursive; */
 }
 
 li{
@@ -41,8 +36,6 @@ li{
 
 .main{
     height: 700px;
-    /* background-color: rgb(142, 245, 117); */
-    /* background-image: url("IMG-2512 (1).jpg"); */
     background-image: url("IMG-2512 (1).jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -97,5 +90,5 @@ li{
     margin: 0;
 }
 .btn-wrapper{
-    background-color: rgb(107, 162, 93);;
+    background-color: rgb(107, 162, 93);
 }
